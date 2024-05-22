@@ -61,7 +61,7 @@ Install postgresql
 
 Clone this repository to your desired folder:
 
-  git clone githttps://github.com/newtonah0/Database-Schema-Diagram.git
+  git clone githttps://github.com/m00h0/Database-Schema-Diagram.git
 
 <!-- AUTHORS -->
 
